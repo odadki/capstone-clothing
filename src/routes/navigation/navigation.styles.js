@@ -21,6 +21,10 @@ export const NavLinks = styled.div`
   display: flex;
   align-items: center;
   justify-content: flex-end;
+
+  @media (max-width: 490px) {
+    font-size: 14px;
+  }
 `;
 export const NavLink = styled(Link)`
   padding: 10px 15px;

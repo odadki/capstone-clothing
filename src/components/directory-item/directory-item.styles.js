@@ -15,7 +15,7 @@ export const Body = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  border: 1px solid black;
+  border: 1px solid gray;
   background-color: white;
   opacity: 0.7;
   position: absolute;
@@ -24,7 +24,7 @@ export const Body = styled.div`
     font-weight: bold;
     margin: 0 6px 0;
     font-size: 22px;
-    color: #4a4a4a;
+    color: black;
     text-transform: uppercase;
   }
 
