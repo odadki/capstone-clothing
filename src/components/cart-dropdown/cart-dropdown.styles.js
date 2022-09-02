@@ -33,8 +33,10 @@ export const EmptyMessage = styled.span`
 `;
 
 export const CartItems = styled.div`
+  font-size: 13px;
   height: 240px;
   display: flex;
   flex-direction: column;
   overflow: scroll;
+  scrollbar-color: black;
 `;

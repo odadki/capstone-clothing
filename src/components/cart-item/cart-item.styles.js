@@ -20,7 +20,7 @@ export const ItemDetails = styled.div`
   padding: 10px 20px;
 
   .name {
-    font-size: 16px;
+    font-size: 15px;
   }
 
   .price {
